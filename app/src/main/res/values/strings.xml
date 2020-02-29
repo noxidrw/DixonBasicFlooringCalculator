@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Flooring Calculator</string>
+    <string name="finalText1">"With a floor width of "</string>
+    <string name="finalText2">" feet, and a length of "</string>
+    <string name="finalText3">" feet, the amount of flooring needed is "</string>
+    <string name="finalText4">" square feet of flooring."</string>
+
+</resources>
